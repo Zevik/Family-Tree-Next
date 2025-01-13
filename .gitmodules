@@ -1,0 +1,3 @@
+[submodule "family-tree"]
+	path = family-tree
+	url = https://github.com/username/repo-name.git
